@@ -1,4 +1,7 @@
 ---
 title: Hello World
+description: My first post
+date: 2017-09-07
+author: ometo
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
+This is just an opening post. Check ou the twitter account for this organization [twitter](https://twitter.com/izniix) to see updates to the wiki or checkout the wiki room here [room](https://gitter.im/gitcura/wiki). Anyway, the language Oralis has been made and we just need to make a download page for it.
